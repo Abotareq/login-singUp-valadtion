@@ -1,0 +1,28 @@
+main{
+height: 100vh;
+width: 100%;
+background-color: #24353f;
+}
+a:hover
+{
+    text-decoration: underline !important;
+}
+
+main .box
+{
+    
+    box-shadow: 10px 10px 100px #000;
+}
+main .box h1
+{
+    color: #1b8395;
+}
+input::placeholder
+{
+  
+    color: #adb5bd !important;
+} 
+input
+{
+    color: #fff !important;
+}

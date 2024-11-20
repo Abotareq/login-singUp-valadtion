@@ -1,0 +1,11 @@
+body{
+    height: 100vh;
+    width: 100%;
+    background-color: #24353f;
+    }
+    header{
+        box-shadow: 10px 10px 50px #000;
+    }
+    a{
+        cursor: pointer;
+    }
